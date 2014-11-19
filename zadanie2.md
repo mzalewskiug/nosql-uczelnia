@@ -17,7 +17,7 @@ Mo¿na przypuszczaæ, ¿e problemy z wydajnoœci¹ Mongo pod Windowsem mog¹ byæ uzale
 Do agregacji wykrzysta³em bibliotekê [pymongo](http://api.mongodb.org/python/current/). 
 
 Bibliotekê instalujemy za pomoc¹ pip wpisuj¹c:
-
+ 
 pip install pymongo
 
 ### Agregacja nr 1
@@ -354,5 +354,5 @@ db.imdb.aggregate(
 }
 
 ```
-
+dfsdfsd
 

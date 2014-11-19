@@ -42,11 +42,7 @@ Dopiero potem mo¿emy wype³niæ tabelê danymi z pliku:
 COPY Topics FROM '/home/pc/nosql/Train2.csv' DELIMITER ',' CSV;
 ```
 
-Czasy dla importu wynios³y:
-
-|MongoDB    | 7m53s |
-|-------------------|
-|PostgreSQL | 9m01s |
+Czasy dla importu wynios³y: MongoDB 7m53s, PostgreSQL 9m01s.
 
 ### Zadanie 1b
 
@@ -89,7 +85,7 @@ print("Unikalne: " + Object.keys(tagsUnique).length);
 
 ```
 
-Zadanie 1d
+### Zadanie 1d
 
 Do rozwi¹zania zadania u¿y³em danych ze strony poipoint.pl. Dane dotycz¹ lokalizacji szkó³ podstawowych w Polsce. 
 
@@ -105,7 +101,7 @@ Do bazy wykona³em nastêpuj¹ce zapytania:
 ```sh
 db.schools.ensureIndex({"loc" : "2dsphere"})
 ```
-
+ 
 by ca³oœæ mia³a prawo dzia³aæ.
 
 Szko³y podstawowe w odleg³oœci 50 km od Gdañska
@@ -120,6 +116,8 @@ Szko³y podstawowe w odleg³oœci 50 km od Gdañska
               } }, { _id: 0 } )
 ```
 
+[JSON](../data/zapytanie nr 1.json), [GeoJSON](../data/zapytanie nr 1.geojson)
+
 Szko³y podstawowe w odleg³oœci 50 km od Warszawy
 
 ```sh
@@ -130,3 +128,7 @@ Szko³y podstawowe w odleg³oœci 50 km od Warszawy
                            $maxDistance : 50000
               } }, { _id: 0 } )
 ```
+
+[JSON](../data/zapytanie nr 2.json), [GeoJSON](../data/zapytanie nr 2.geojson)
+
+sdfd
