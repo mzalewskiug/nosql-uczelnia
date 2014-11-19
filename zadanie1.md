@@ -1,8 +1,8 @@
-Sprzêt, na którym pracujê: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 17
+SprzÄ™t, na ktÃ³rym pracujÄ™: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 17
 
 ### Zadanie 1a
 
-Najpierw przetworzy³em bazê za pomoc¹ skryptu z repozytorium prowadz¹cego:
+Najpierw przetworzyÅ‚em bazÄ™ za pomocÄ… skryptu z repozytorium prowadzÄ…cego:
 
 ```sh
 if [ -z "$1" ] ; then
@@ -19,13 +19,13 @@ sed -i '1 c "_id","title","body","tags"' "$2"
 
 ```
 
-PóŸniej zaimportowa³em plik do bazy za pomoc¹ polecenia:
+PÃ³Åºniej zaimportowaÅ‚em plik do bazy za pomocÄ… polecenia:
 
 ```sh
 time mongoimport -c Topics --type csv --file Train2.csv --headerline
 ```
 
-W wypadku Postgresa wygl¹da to nieco inaczej - najpierw trzeba stworzyæ odpowiedni¹ tabelê:
+W wypadku Postgresa wyglÄ…da to nieco inaczej - najpierw trzeba stworzyÄ‡ odpowiedniÄ… tabelÄ™:
 
 ```sh
 CREATE TABLE Topics(
@@ -36,23 +36,23 @@ TAGS CHAR(128) NOT NULL,
 );
 ```
 
-Dopiero potem mo¿emy wype³niæ tabelê danymi z pliku:
+Dopiero potem moÅ¼emy wypeÅ‚niÄ‡ tabelÄ™ danymi z pliku:
 
 ```sh
 COPY Topics FROM '/home/pc/nosql/Train2.csv' DELIMITER ',' CSV;
 ```
 
-Czasy dla importu wynios³y: MongoDB 7m53s, PostgreSQL 9m01s.
+Czasy dla importu wyniosÅ‚y: MongoDB 7m53s, PostgreSQL 9m01s.
 
 ### Zadanie 1b
 
-Do obliczenia iloœci zaimportowanych rekordów u¿y³em polecenia:
+Do obliczenia iloÅ›ci zaimportowanych rekordÃ³w uÅ¼yÅ‚em polecenia:
 
 ```sh
 db.Topics.count()
 ```
 
-które da³o wynik 6034195.
+ktÃ³re daÅ‚o wynik 6034195.
 
 Zadanie 1c
 
@@ -87,24 +87,24 @@ print("Unikalne: " + Object.keys(tagsUnique).length);
 
 ### Zadanie 1d
 
-Do rozwi¹zania zadania u¿y³em danych ze strony poipoint.pl. Dane dotycz¹ lokalizacji szkó³ podstawowych w Polsce. 
+Do rozwiÄ…zania zadania uÅ¼yÅ‚em danych ze strony poipoint.pl. Dane dotyczÄ… lokalizacji szkÃ³Å‚ podstawowych w Polsce. 
 
-Na pocz¹tek zaimportowa³em dane do mongo
+Na poczÄ…tek zaimportowaÅ‚em dane do mongo
 
 ```sh
 mongoimport --db zadanie -d geo -c schools < /home/pc/nosql/szkoly.json
 ```
 
-Do bazy wykona³em nastêpuj¹ce zapytania:
+Do bazy wykonaÅ‚em nastÄ™pujÄ…ce zapytania:
 
 
 ```sh
 db.schools.ensureIndex({"loc" : "2dsphere"})
 ```
  
-by ca³oœæ mia³a prawo dzia³aæ.
+by caÅ‚oÅ›Ä‡ miaÅ‚a prawo dziaÅ‚aÄ‡.
 
-Szko³y podstawowe w odleg³oœci 50 km od Gdañska
+SzkoÅ‚y podstawowe w odlegÅ‚oÅ›ci 50 km od GdaÅ„ska
 
 
 ```sh
@@ -116,9 +116,9 @@ Szko³y podstawowe w odleg³oœci 50 km od Gdañska
               } }, { _id: 0 } )
 ```
 
-[JSON](master/data/zapytanie nr 1.json), [GeoJSON](master/data/zapytanie nr 1.geojson)
+[JSON](/data/zapytanie nr 1.json), [GeoJSON](master/data/zapytanie nr 1.geojson)
 
-Szko³y podstawowe w odleg³oœci 50 km od Warszawy
+SzkoÅ‚y podstawowe w odlegÅ‚oÅ›ci 50 km od Warszawy
 
 ```sh
  db.schools.find( { loc : { $near :
