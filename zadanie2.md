@@ -354,5 +354,4 @@ db.imdb.aggregate(
 }
 
 ```
-dfsdfsd
 
