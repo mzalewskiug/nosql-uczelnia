@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.06328,  52.24764 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.974134,  52.240074 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.02333,  52.29373 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.981521,  52.201091 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.973823,  52.32654 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.993629,  52.340374 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.15707,  52.26339 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.03909,  52.1737 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.17014,  52.26569 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.162183,  52.209957 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.923585,  52.154626 ] }, "name" : "Szkoły podstawowe", "city" : "Raszyn" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.05969,  52.1319 ] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.8304,  52.188865 ] }, "name" : "Szkoły podstawowe", "city" : "Piastów" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.056982,  52.393247 ] }, "name" : "Szkoły podstawowe", "city" : "Izabelin" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.93674,  52.39075 ] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.92614,  52.39439 ] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.813695,  52.171815 ] }, "name" : "Szkoły podstawowe", "city" : "Pruszków" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.94854,  52.41027 ] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.090842,  52.414533 ] }, "name" : "Szkoły podstawowe", "city" : "Wólka Radzymińska" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.952226,  52.424717 ] }, "name" : "Szkoły podstawowe", "city" : "Łajski" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.021255,  52.076941 ] }, "name" : "Szkoły podstawowe", "city" : "Piaseczno" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.183808,  52.413774 ] }, "name" : "Szkoły podstawowe", "city" : "Radzymin" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.270222,  52.373099 ] }, "name" : "Szkoły podstawowe", "city" : "Zagościniec" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.9683,  52.451282 ] }, "name" : "Szkoły podstawowe", "city" : "Wieliszew" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.028283,  52.464978 ] }, "name" : "Szkoły podstawowe", "city" : "Zegrze" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.809493,  52.09623 ] }, "name" : "Szkoły podstawowe", "city" : "Nadarzyn" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.043991,  52.47727 ] }, "name" : "Szkoły podstawowe", "city" : "Jadwisin" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.709165,  52.14426 ] }, "name" : "Szkoły podstawowe", "city" : "Brwinów" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.728148,  52.120701 ] }, "name" : "Szkoły podstawowe", "city" : "Podkowa Leśna" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.72596,  52.118406 ] }, "name" : "Szkoły podstawowe", "city" : "Podkowa Leśna" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.91256,  52.01199 ] }, "name" : "Szkoły podstawowe", "city" : "Złotokłos" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.442467,  52.430989 ] }, "name" : "Szkoły podstawowe", "city" : "Tłuszcz" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.08999,  51.9255 ] }, "name" : "Szkoły podstawowe", "city" : "Sułkowice" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.502953,  52.469286 ] }, "name" : "Szkoły podstawowe", "city" : "Mokra Wieś" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  21.306073,  51.930215 ] }, "name" : "Szkoły podstawowe", "city" : "Sobienie-Jeziory" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.877423,  51.863703 ] }, "name" : "Szkoły podstawowe", "city" : "Grójec" }},
+{ "type": "Feature", "geometry" : { "type" : "Point", "coordinates" : [  20.43701,  52.04946 ] }, "name" : "Szkoły podstawowe", "city" : "Żyrardów" }},
+
+
+
+]
+}

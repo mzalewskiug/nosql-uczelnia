@@ -1,0 +1,656 @@
+{ "loc" : {"type" : "Point", "coordinates" : [15.901765, 52.604350] }, "name" : "Szkoły podstawowe", "city" : "Międzychód" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.888719, 52.597886] }, "name" : "Szkoły podstawowe", "city" : "Międzychód" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.231629, 53.903352] }, "name" : "Szkoły podstawowe", "city" : "Świnoujście" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.242315, 53.906790] }, "name" : "Szkoły podstawowe", "city" : "Świnoujście" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.009499, 50.013792] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.955238, 50.081069] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.145436, 50.282634] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.421832, 51.077564] }, "name" : "Szkoły podstawowe", "city" : "Radomsko" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.007466, 52.265583] }, "name" : "Szkoły podstawowe", "city" : "Chrośnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.925841, 50.881660] }, "name" : "Szkoły podstawowe", "city" : "Janowice Wielkie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.660638, 52.344166] }, "name" : "Szkoły podstawowe", "city" : "Babiak" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.948409, 53.312223] }, "name" : "Szkoły podstawowe", "city" : "Koronowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.726909, 51.697671] }, "name" : "Szkoły podstawowe", "city" : "Mogielnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.478047, 50.160530] }, "name" : "Szkoły podstawowe", "city" : "Trzebinia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.477478, 50.183719] }, "name" : "Szkoły podstawowe", "city" : "Myślachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.401909, 54.158413] }, "name" : "Szkoły podstawowe", "city" : "Elbląg" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.951142, 51.115754] }, "name" : "Szkoły podstawowe", "city" : "Wrocław" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.126102, 50.283813] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.135715, 50.292279] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.129954, 50.273118] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.141584, 50.279727] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.125308, 50.272226] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.189360, 50.304150] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.126660, 50.287838] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.079325, 50.291094] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.179736, 50.267488] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.161572, 50.247136] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.146476, 50.296755] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.146487, 50.267961] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.113807, 50.278233] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.162366, 50.270142] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.167966, 50.234236] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.134417, 50.276786] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.185250, 50.306589] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.190540, 50.271952] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.110760, 50.280852] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.165252, 50.253276] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.239710, 50.297002] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.446144, 50.167703] }, "name" : "Szkoły podstawowe", "city" : "Trzebinia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.266554, 50.289592] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.228413, 50.281373] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.231867, 50.268153] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.272980, 50.259998] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.177300, 50.291676] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.184982, 50.286569] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.176120, 50.288831] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.164340, 50.294671] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.122830, 50.295172] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.184982, 50.280077] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.149953, 50.241866] }, "name" : "Szkoły podstawowe", "city" : "Sosnowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.242746, 50.033603] }, "name" : "Szkoły podstawowe", "city" : "Oświęcim" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.234120, 50.036738] }, "name" : "Szkoły podstawowe", "city" : "Oświęcim" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.238777, 50.034691] }, "name" : "Szkoły podstawowe", "city" : "Oświęcim" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.222716, 50.034877] }, "name" : "Szkoły podstawowe", "city" : "Oświęcim" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.306073, 51.930215] }, "name" : "Szkoły podstawowe", "city" : "Sobienie-Jeziory" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.980021, 49.283665] }, "name" : "Szkoły podstawowe", "city" : "Zakopane" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.956420, 49.397617] }, "name" : "Szkoły podstawowe", "city" : "Krynica-Zdrój" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.956903, 49.424387] }, "name" : "Szkoły podstawowe", "city" : "Krynica-Zdrój" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.006964, 50.015495] }, "name" : "Szkoły podstawowe", "city" : "Tarnów" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.408434, 49.965286] }, "name" : "Szkoły podstawowe", "city" : "Bochnia" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.425847, 49.966943] }, "name" : "Szkoły podstawowe", "city" : "Bochnia" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.441136, 49.969855] }, "name" : "Szkoły podstawowe", "city" : "Bochnia" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.421599, 49.968702] }, "name" : "Szkoły podstawowe", "city" : "Bochnia" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.612325, 49.973029] }, "name" : "Szkoły podstawowe", "city" : "Brzesko" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.601360, 49.972491] }, "name" : "Szkoły podstawowe", "city" : "Brzesko" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.815385, 49.715253] }, "name" : "Szkoły podstawowe", "city" : "Ustroń" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.807156, 49.723577] }, "name" : "Szkoły podstawowe", "city" : "Ustroń" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.839664, 49.689787] }, "name" : "Szkoły podstawowe", "city" : "Ustroń" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.730981, 50.288359] }, "name" : "Szkoły podstawowe", "city" : "Gliwice" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.894639, 50.338640] }, "name" : "Szkoły podstawowe", "city" : "Bytom" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.054841, 49.825525] }, "name" : "Szkoły podstawowe", "city" : "Bielsko-Biała" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.254055, 50.157016] }, "name" : "Szkoły podstawowe", "city" : "Jaworzno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.311733, 50.161250] }, "name" : "Szkoły podstawowe", "city" : "Jaworzno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.270792, 50.207697] }, "name" : "Szkoły podstawowe", "city" : "Jaworzno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.254398, 50.205239] }, "name" : "Szkoły podstawowe", "city" : "Jaworzno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.134696, 50.812856] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.653782, 50.035932] }, "name" : "Szkoły podstawowe", "city" : "Żory" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.679300, 50.037992] }, "name" : "Szkoły podstawowe", "city" : "Żory" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.710939, 50.020397] }, "name" : "Szkoły podstawowe", "city" : "Żory" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.721969, 50.041293] }, "name" : "Szkoły podstawowe", "city" : "Żory" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.688033, 50.013206] }, "name" : "Szkoły podstawowe", "city" : "Żory" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.616504, 50.337476] }, "name" : "Szkoły podstawowe", "city" : "Gliwice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.395316, 50.427494] }, "name" : "Szkoły podstawowe", "city" : "Łazy" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.218169, 51.204537] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.155781, 51.208019] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.119115, 52.748035] }, "name" : "Szkoły podstawowe", "city" : "Janikowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.104224, 52.750996] }, "name" : "Szkoły podstawowe", "city" : "Janikowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.442785, 51.823471] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.887826, 51.113740] }, "name" : "Szkoły podstawowe", "city" : "Skarżysko-Kamienna" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.538962, 53.592422] }, "name" : "Szkoły podstawowe", "city" : "Police" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.922622, 50.030281] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.490338, 54.281174] }, "name" : "Szkoły podstawowe", "city" : "Górowo Iławeckie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.308179, 50.234771] }, "name" : "Szkoły podstawowe", "city" : "Solarnia" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.578124, 51.351502] }, "name" : "Szkoły podstawowe", "city" : "Zwoleń" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.286067, 50.239904] }, "name" : "Szkoły podstawowe", "city" : "Dziergowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.982070, 50.060059] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.377195, 50.484162] }, "name" : "Szkoły podstawowe", "city" : "Ossala" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.403663, 50.461055] }, "name" : "Szkoły podstawowe", "city" : "Szwagrów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.858552, 52.274184] }, "name" : "Szkoły podstawowe", "city" : "Puszczykowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.386285, 50.054645] }, "name" : "Szkoły podstawowe", "city" : "Pszów" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.248226, 52.969202] }, "name" : "Szkoły podstawowe", "city" : "Zambrów" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.540705, 49.938957] }, "name" : "Szkoły podstawowe", "city" : "Jastrzębie-Zdrój" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.629524, 53.116657] }, "name" : "Szkoły podstawowe", "city" : "Ostaszewo" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.392974, 52.910144] }, "name" : "Szkoły podstawowe", "city" : "Jędrzejewo" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.457659, 51.035241] }, "name" : "Szkoły podstawowe", "city" : "Udanin" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.088490, 51.659459] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.062768, 51.653479] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.100990, 51.653988] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.126277, 51.652943] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.074414, 51.668237] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.078808, 51.656171] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.100971, 51.647581] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.115246, 51.643570] }, "name" : "Szkoły podstawowe", "city" : "Głogów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.927879, 50.048975] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.814430, 51.774430] }, "name" : "Szkoły podstawowe", "city" : "Siedlisko" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.069508, 49.727150] }, "name" : "Szkoły podstawowe", "city" : "Buczkowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.840930, 50.149736] }, "name" : "Szkoły podstawowe", "city" : "Łaziska Górne" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.026815, 50.038192] }, "name" : "Szkoły podstawowe", "city" : "Rzeszów" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.420411, 54.419935] }, "name" : "Szkoły podstawowe", "city" : "Łupawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.433988, 54.094574] }, "name" : "Szkoły podstawowe", "city" : "Drzonowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.248388, 51.713316] }, "name" : "Szkoły podstawowe", "city" : "Szlichtyngowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.312560, 51.808130] }, "name" : "Szkoły podstawowe", "city" : "Wschowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.932243, 54.121055] }, "name" : "Szkoły podstawowe", "city" : "Suwałki" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.979906, 52.888308] }, "name" : "Szkoły podstawowe", "city" : "Budzyń" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.678922, 50.492916] }, "name" : "Szkoły podstawowe", "city" : "Jadachy" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.709547, 50.512100] }, "name" : "Szkoły podstawowe", "city" : "Cygany" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.667844, 50.516759] }, "name" : "Szkoły podstawowe", "city" : "Chmielów" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.640110, 50.466503] }, "name" : "Szkoły podstawowe", "city" : "Ślęzaki" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.034277, 51.712983] }, "name" : "Szkoły podstawowe", "city" : "Żelechlinek" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.433113, 50.619676] }, "name" : "Szkoły podstawowe", "city" : "Nowodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.831832, 50.081365] }, "name" : "Szkoły podstawowe", "city" : "Orzesze" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.923585, 52.154626] }, "name" : "Szkoły podstawowe", "city" : "Raszyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.493210, 50.943160] }, "name" : "Szkoły podstawowe", "city" : "Żarów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.490900, 50.942770] }, "name" : "Szkoły podstawowe", "city" : "Żarów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.122630, 54.328740] }, "name" : "Szkoły podstawowe", "city" : "Stegna" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.630650, 54.341950] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.089990, 51.925500] }, "name" : "Szkoły podstawowe", "city" : "Sułkowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.456851, 51.066191] }, "name" : "Szkoły podstawowe", "city" : "Radomsko" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.086370, 51.047920] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.088330, 51.052220] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.075960, 51.054170] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.085750, 51.043020] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.056700, 51.055980] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.061880, 51.037450] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.056790, 51.046840] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.079490, 51.047390] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.106320, 51.008540] }, "name" : "Szkoły podstawowe", "city" : "Starachowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.378930, 53.240980] }, "name" : "Szkoły podstawowe", "city" : "Strączno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.561820, 54.375890] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.624920, 54.387520] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.583950, 54.325010] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.972190, 49.991240] }, "name" : "Szkoły podstawowe", "city" : "Rajsko" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.461170, 53.037970] }, "name" : "Szkoły podstawowe", "city" : "Trzcianka" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.871370, 52.474600] }, "name" : "Szkoły podstawowe", "city" : "Suchy Las" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.907720, 52.465150] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.013170, 52.577420] }, "name" : "Szkoły podstawowe", "city" : "Murowana Goślina" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.042590, 54.026110] }, "name" : "Szkoły podstawowe", "city" : "Malbork" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.043990, 54.029020] }, "name" : "Szkoły podstawowe", "city" : "Malbork" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.034240, 54.039090] }, "name" : "Szkoły podstawowe", "city" : "Malbork" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.537690, 54.172350] }, "name" : "Szkoły podstawowe", "city" : "Trąbki Wielkie" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.974440, 50.012250] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.593000, 52.438900] }, "name" : "Szkoły podstawowe", "city" : "Ceradz Kościelny" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.437010, 52.049460] }, "name" : "Szkoły podstawowe", "city" : "Żyrardów" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.989720, 52.164810] }, "name" : "Szkoły podstawowe", "city" : "Kopojno" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.387400, 51.113470] }, "name" : "Szkoły podstawowe", "city" : "Niedrzwica Duża" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.912560, 52.011990] }, "name" : "Szkoły podstawowe", "city" : "Złotokłos" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.684660, 54.356320] }, "name" : "Szkoły podstawowe", "city" : "Frombork" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.105640, 50.533620] }, "name" : "Szkoły podstawowe", "city" : "Nisko" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.148340, 50.521060] }, "name" : "Szkoły podstawowe", "city" : "Nisko" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.481000, 54.353300] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.272990, 54.316280] }, "name" : "Szkoły podstawowe", "city" : "Dzierżążno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.799380, 54.331110] }, "name" : "Szkoły podstawowe", "city" : "Wiślinka" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.649110, 54.223610] }, "name" : "Szkoły podstawowe", "city" : "Łęgowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.378520, 54.475050] }, "name" : "Szkoły podstawowe", "city" : "Bojano" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.972390, 53.797240] }, "name" : "Szkoły podstawowe", "city" : "Czersk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.712270, 54.361430] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.429640, 51.727760] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.065880, 54.012640] }, "name" : "Szkoły podstawowe", "city" : "Nowa Wieś Malborska" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.962620, 54.289480] }, "name" : "Szkoły podstawowe", "city" : "Drewnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.943340, 52.439210] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.411350, 54.390680] }, "name" : "Szkoły podstawowe", "city" : "Banino" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.465700, 51.742910] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.669740, 54.263770] }, "name" : "Szkoły podstawowe", "city" : "Pruszcz Gdański" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.637110, 54.255680] }, "name" : "Szkoły podstawowe", "city" : "Pruszcz Gdański" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.628290, 54.260690] }, "name" : "Szkoły podstawowe", "city" : "Pruszcz Gdański" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.569740, 54.376810] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.607980, 54.339280] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.010850, 54.017820] }, "name" : "Szkoły podstawowe", "city" : "Malbork" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.028970, 54.459220] }, "name" : "Szkoły podstawowe", "city" : "Słupsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.377050, 51.939820] }, "name" : "Szkoły podstawowe", "city" : "Łuków" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.691210, 54.358420] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.157070, 52.263390] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.170140, 52.265690] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.008390, 53.567630] }, "name" : "Szkoły podstawowe", "city" : "Szczytno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.578840, 54.403500] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.948540, 52.410270] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.936740, 52.390750] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.912790, 52.246680] }, "name" : "Szkoły podstawowe", "city" : "Kłodawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.184150, 53.240150] }, "name" : "Szkoły podstawowe", "city" : "Działdowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.167650, 53.230400] }, "name" : "Szkoły podstawowe", "city" : "Działdowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.815180, 54.384060] }, "name" : "Szkoły podstawowe", "city" : "Braniewo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.163190, 54.608400] }, "name" : "Szkoły podstawowe", "city" : "Gościcino" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.186020, 54.614210] }, "name" : "Szkoły podstawowe", "city" : "Bolszewo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.394580, 54.560170] }, "name" : "Szkoły podstawowe", "city" : "Rumia" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.751560, 54.545890] }, "name" : "Szkoły podstawowe", "city" : "Lębork" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.746990, 54.544070] }, "name" : "Szkoły podstawowe", "city" : "Lębork" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.754960, 54.529680] }, "name" : "Szkoły podstawowe", "city" : "Lębork" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.153090, 53.153960] }, "name" : "Szkoły podstawowe", "city" : "Bydgoszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.933040, 53.737380] }, "name" : "Szkoły podstawowe", "city" : "Kwidzyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.132820, 52.024370] }, "name" : "Szkoły podstawowe", "city" : "Biała Podlaska" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.100410, 52.037350] }, "name" : "Szkoły podstawowe", "city" : "Biała Podlaska" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.148320, 52.027740] }, "name" : "Szkoły podstawowe", "city" : "Biała Podlaska" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.289700, 52.167940] }, "name" : "Szkoły podstawowe", "city" : "Siedlce" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.572970, 53.080420] }, "name" : "Szkoły podstawowe", "city" : "Ostrołęka" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.566320, 53.078410] }, "name" : "Szkoły podstawowe", "city" : "Ostrołęka" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.311610, 50.865360] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.309520, 50.853730] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.341510, 50.872530] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.324840, 50.858480] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.315300, 50.859640] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.323270, 50.856920] }, "name" : "Szkoły podstawowe", "city" : "Świebodzice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.974911, 50.044128] }, "name" : "Szkoły podstawowe", "city" : "Rzeszów" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.777780, 50.244850] }, "name" : "Szkoły podstawowe", "city" : "Kolbuszowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.768040, 50.242660] }, "name" : "Szkoły podstawowe", "city" : "Kolbuszowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.825270, 50.402040] }, "name" : "Szkoły podstawowe", "city" : "Krzątka" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.869220, 50.386160] }, "name" : "Szkoły podstawowe", "city" : "Klatki" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.914300, 50.386590] }, "name" : "Szkoły podstawowe", "city" : "Spie" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.735490, 50.323890] }, "name" : "Szkoły podstawowe", "city" : "Hadykówka" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.348790, 53.964350] }, "name" : "Szkoły podstawowe", "city" : "Pinczyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.328160, 53.935720] }, "name" : "Szkoły podstawowe", "city" : "Zblewo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.898590, 53.151380] }, "name" : "Szkoły podstawowe", "city" : "Kowalewo Pomorskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.713200, 52.305760] }, "name" : "Szkoły podstawowe", "city" : "Pacyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.174010, 51.211150] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.141280, 51.203120] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.155930, 51.196650] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.158970, 51.199350] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.176670, 51.192910] }, "name" : "Szkoły podstawowe", "city" : "Legnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.403230, 54.184590] }, "name" : "Szkoły podstawowe", "city" : "Elbląg" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.023330, 52.293730] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.063280, 52.247640] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.039090, 52.173700] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.191900, 51.388940] }, "name" : "Szkoły podstawowe", "city" : "Kurów" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.326450, 54.196510] }, "name" : "Szkoły podstawowe", "city" : "Przywidz" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.887070, 54.344740] }, "name" : "Szkoły podstawowe", "city" : "Sierakowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.059690, 52.131900] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.644166, 53.005555] }, "name" : "Szkoły podstawowe", "city" : "Toruń" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.931410, 49.806630] }, "name" : "Szkoły podstawowe", "city" : "Medyka" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.400790, 50.139150] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.406450, 50.145360] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.395600, 50.129340] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.420380, 50.134780] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.408270, 50.133450] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.416310, 50.142350] }, "name" : "Szkoły podstawowe", "city" : "Chrzanów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.373147, 50.170800] }, "name" : "Szkoły podstawowe", "city" : "Balin" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.125450, 54.229260] }, "name" : "Szkoły podstawowe", "city" : "Pieniężno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.003120, 54.135410] }, "name" : "Szkoły podstawowe", "city" : "Nowy Staw" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.591450, 53.466740] }, "name" : "Szkoły podstawowe", "city" : "Szczecin" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.335620, 54.453950] }, "name" : "Szkoły podstawowe", "city" : "Kielno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.221580, 54.487530] }, "name" : "Szkoły podstawowe", "city" : "Szemud" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.413270, 54.425000] }, "name" : "Szkoły podstawowe", "city" : "Darłowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.473924, 50.208372] }, "name" : "Szkoły podstawowe", "city" : "Czyżówka" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.511900, 50.205250] }, "name" : "Szkoły podstawowe", "city" : "Płoki" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.440090, 54.070470] }, "name" : "Szkoły podstawowe", "city" : "Skarszewy" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.018350, 54.339120] }, "name" : "Szkoły podstawowe", "city" : "Miechucino" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.191130, 54.334000] }, "name" : "Szkoły podstawowe", "city" : "Kartuzy" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.391130, 53.995100] }, "name" : "Szkoły podstawowe", "city" : "Kleszczewo Kościerskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.685530, 54.171630] }, "name" : "Szkoły podstawowe", "city" : "Pszczółki" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.440550, 50.201210] }, "name" : "Szkoły podstawowe", "city" : "Trzebinia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.449210, 50.176420] }, "name" : "Szkoły podstawowe", "city" : "Trzebinia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.489460, 50.151460] }, "name" : "Szkoły podstawowe", "city" : "Młoszowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.521560, 50.150290] }, "name" : "Szkoły podstawowe", "city" : "Dulowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.554440, 50.207130] }, "name" : "Szkoły podstawowe", "city" : "Lgota" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.758060, 53.484740] }, "name" : "Szkoły podstawowe", "city" : "Grudziądz" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.004470, 50.278840] }, "name" : "Szkoły podstawowe", "city" : "Katowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.437960, 54.315510] }, "name" : "Szkoły podstawowe", "city" : "Kamińsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.298860, 54.232850] }, "name" : "Szkoły podstawowe", "city" : "Sianów" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.292280, 54.226830] }, "name" : "Szkoły podstawowe", "city" : "Sianów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.173010, 54.329170] }, "name" : "Szkoły podstawowe", "city" : "Sztutowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.926140, 52.394390] }, "name" : "Szkoły podstawowe", "city" : "Legionowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.692850, 52.784600] }, "name" : "Szkoły podstawowe", "city" : "Sońsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.898570, 49.972060] }, "name" : "Szkoły podstawowe", "city" : "Libertów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.464990, 50.098290] }, "name" : "Szkoły podstawowe", "city" : "Płaza" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.559210, 54.479810] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.509730, 54.500030] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.549240, 49.869450] }, "name" : "Szkoły podstawowe", "city" : "Klecza Dolna" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.455500, 49.872640] }, "name" : "Szkoły podstawowe", "city" : "Chocznia" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.727230, 52.845980] }, "name" : "Szkoły podstawowe", "city" : "Żnin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.713250, 52.852970] }, "name" : "Szkoły podstawowe", "city" : "Żnin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.579470, 52.537020] }, "name" : "Szkoły podstawowe", "city" : "Gniezno" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.599220, 52.549770] }, "name" : "Szkoły podstawowe", "city" : "Gniezno" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.080250, 52.447800] }, "name" : "Szkoły podstawowe", "city" : "Kobylnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.780760, 52.477800] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.897550, 52.348050] }, "name" : "Szkoły podstawowe", "city" : "Luboń" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.862370, 52.350130] }, "name" : "Szkoły podstawowe", "city" : "Luboń" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.351000, 49.859590] }, "name" : "Szkoły podstawowe", "city" : "Andrychów" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.498830, 49.878020] }, "name" : "Szkoły podstawowe", "city" : "Wadowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.879210, 52.346530] }, "name" : "Szkoły podstawowe", "city" : "Luboń" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.822260, 52.436390] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.822790, 52.410000] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.559700, 51.846670] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.582630, 51.840280] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.582960, 51.840290] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.584830, 51.865810] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.601830, 51.832460] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.599900, 51.845910] }, "name" : "Szkoły podstawowe", "city" : "Leszno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.693448, 51.962113] }, "name" : "Szkoły podstawowe", "city" : "Głowno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.719733, 51.954589] }, "name" : "Szkoły podstawowe", "city" : "Głowno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.722716, 51.969405] }, "name" : "Szkoły podstawowe", "city" : "Głowno" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.427142, 52.488545] }, "name" : "Szkoły podstawowe", "city" : "Fałkowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.468478, 54.430691] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.454085, 54.417356] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.889424, 52.450232] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.509129, 54.339661] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.502708, 54.553174] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.818315, 49.875087] }, "name" : "Szkoły podstawowe", "city" : "Żarnowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.676816, 51.704975] }, "name" : "Szkoły podstawowe", "city" : "Włyń" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.927278, 50.090625] }, "name" : "Szkoły podstawowe", "city" : "Nowa Cerekwia" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.214427, 51.959548] }, "name" : "Szkoły podstawowe", "city" : "Dokudów Pierwszy" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.284104, 52.892547] }, "name" : "Szkoły podstawowe", "city" : "Strzegowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.468472, 54.473253] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.461043, 54.471617] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.421260, 54.492382] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.523672, 54.514245] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.704844, 50.079615] }, "name" : "Szkoły podstawowe", "city" : "Wiązownica" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.585266, 54.424013] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.552313, 54.493435] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.641398, 49.779167] }, "name" : "Szkoły podstawowe", "city" : "Witowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.650521, 49.802617] }, "name" : "Szkoły podstawowe", "city" : "Wytrzyszczka" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.658827, 49.852902] }, "name" : "Szkoły podstawowe", "city" : "Tworkowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.971346, 53.690057] }, "name" : "Szkoły podstawowe", "city" : "Ostróda" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.960875, 53.691423] }, "name" : "Szkoły podstawowe", "city" : "Ostróda" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.960086, 53.695892] }, "name" : "Szkoły podstawowe", "city" : "Ostróda" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.962227, 53.705086] }, "name" : "Szkoły podstawowe", "city" : "Ostróda" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.620983, 49.851125] }, "name" : "Szkoły podstawowe", "city" : "Tymowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.449964, 49.856308] }, "name" : "Szkoły podstawowe", "city" : "Muchówka" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.397134, 49.859282] }, "name" : "Szkoły podstawowe", "city" : "Leszczyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.945897, 52.102731] }, "name" : "Szkoły podstawowe", "city" : "Łowicz" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.927723, 52.103848] }, "name" : "Szkoły podstawowe", "city" : "Łowicz" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.863095, 52.389550] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.144899, 49.958983] }, "name" : "Szkoły podstawowe", "city" : "Trąbki" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.546302, 54.160401] }, "name" : "Szkoły podstawowe", "city" : "Kołobrzeg" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.270222, 52.373099] }, "name" : "Szkoły podstawowe", "city" : "Zagościniec" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.813695, 52.171815] }, "name" : "Szkoły podstawowe", "city" : "Pruszków" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.675496, 49.986534] }, "name" : "Szkoły podstawowe", "city" : "Krzyżowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.714352, 49.991838] }, "name" : "Szkoły podstawowe", "city" : "Warszowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.584936, 50.132308] }, "name" : "Szkoły podstawowe", "city" : "Wola Filipowska" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.070974, 50.567254] }, "name" : "Szkoły podstawowe", "city" : "Stalowa Wola" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.162183, 52.209957] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.075632, 53.187380] }, "name" : "Szkoły podstawowe", "city" : "Osielsko" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.965418, 51.078816] }, "name" : "Szkoły podstawowe", "city" : "Wrocław" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.921523, 53.133049] }, "name" : "Szkoły podstawowe", "city" : "Bydgoszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.993331, 53.124230] }, "name" : "Szkoły podstawowe", "city" : "Bydgoszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.018157, 53.116316] }, "name" : "Szkoły podstawowe", "city" : "Bydgoszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.739401, 54.538778] }, "name" : "Szkoły podstawowe", "city" : "Lębork" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.981521, 52.201091] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.974134, 52.240074] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.663741, 54.058154] }, "name" : "Szkoły podstawowe", "city" : "Pasłęk" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.181989, 53.156679] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.196489, 53.125044] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.488056, 49.883011] }, "name" : "Szkoły podstawowe", "city" : "Wadowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.161784, 53.142477] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.190479, 53.111338] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.122079, 53.131157] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.914921, 50.070113] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.189430, 53.132805] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.181029, 53.117849] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.455082, 50.345188] }, "name" : "Szkoły podstawowe", "city" : "Dąbrowa Górnicza" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.141611, 53.140811] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.130845, 53.149640] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.178658, 53.138607] }, "name" : "Szkoły podstawowe", "city" : "Białystok" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.021255, 52.076941] }, "name" : "Szkoły podstawowe", "city" : "Piaseczno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.604327, 51.901648] }, "name" : "Szkoły podstawowe", "city" : "Stryków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.604523, 51.897327] }, "name" : "Szkoły podstawowe", "city" : "Stryków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.559312, 51.869662] }, "name" : "Szkoły podstawowe", "city" : "Dobra" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.475382, 53.277056] }, "name" : "Szkoły podstawowe", "city" : "Wałcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.528005, 49.918183] }, "name" : "Szkoły podstawowe", "city" : "Witanowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.687430, 50.574591] }, "name" : "Szkoły podstawowe", "city" : "Tarnobrzeg" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.686226, 50.585814] }, "name" : "Szkoły podstawowe", "city" : "Tarnobrzeg" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.699311, 51.214095] }, "name" : "Szkoły podstawowe", "city" : "Świdnik" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.586635, 51.243012] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.550073, 51.225875] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.599837, 54.232666] }, "name" : "Szkoły podstawowe", "city" : "Wojanowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.541061, 51.260810] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.587978, 51.235250] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.466542, 53.264148] }, "name" : "Szkoły podstawowe", "city" : "Wałcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.550597, 51.272808] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.518192, 51.237584] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.711829, 50.648583] }, "name" : "Szkoły podstawowe", "city" : "Zawierzbie" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.733044, 50.687025] }, "name" : "Szkoły podstawowe", "city" : "Sandomierz" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.741991, 50.684678] }, "name" : "Szkoły podstawowe", "city" : "Sandomierz" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.569959, 51.213555] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.349928, 53.650813] }, "name" : "Szkoły podstawowe", "city" : "Białostocka" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.502696, 52.593514] }, "name" : "Szkoły podstawowe", "city" : "Skwierzyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.726272, 51.958125] }, "name" : "Szkoły podstawowe", "city" : "Gubin" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.744715, 50.688308] }, "name" : "Szkoły podstawowe", "city" : "Sandomierz" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.892147, 49.978825] }, "name" : "Szkoły podstawowe", "city" : "Mogielnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.912685, 52.246577] }, "name" : "Szkoły podstawowe", "city" : "Kłodawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.632011, 51.261757] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.518655, 51.223667] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.634057, 51.219563] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.492689, 51.230246] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.000003, 50.097573] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.974140, 54.119941] }, "name" : "Szkoły podstawowe", "city" : "Kościerzyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.953113, 50.067566] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.505889, 51.171231] }, "name" : "Szkoły podstawowe", "city" : "Lublin" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.368188, 49.972671] }, "name" : "Szkoły podstawowe", "city" : "Piotrowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.764968, 50.667590] }, "name" : "Szkoły podstawowe", "city" : "Sandomierz" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.498031, 49.872303] }, "name" : "Szkoły podstawowe", "city" : "Wadowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.016214, 54.335832] }, "name" : "Szkoły podstawowe", "city" : "Jantar" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.580441, 54.377102] }, "name" : "Szkoły podstawowe", "city" : "Gdańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.015010, 53.135257] }, "name" : "Szkoły podstawowe", "city" : "Bydgoszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.696570, 53.924913] }, "name" : "Szkoły podstawowe", "city" : "Pelplin" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.207100, 53.752105] }, "name" : "Szkoły podstawowe", "city" : "Prabuty" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.977254, 54.001990] }, "name" : "Szkoły podstawowe", "city" : "Miastko" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.973521, 53.994044] }, "name" : "Szkoły podstawowe", "city" : "Miastko" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.430781, 54.376867] }, "name" : "Szkoły podstawowe", "city" : "Krynica Morska" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.423791, 51.820539] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.717516, 53.145957] }, "name" : "Szkoły podstawowe", "city" : "Piła" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.750085, 53.164298] }, "name" : "Szkoły podstawowe", "city" : "Piła" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.783178, 53.152931] }, "name" : "Szkoły podstawowe", "city" : "Piła" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.751713, 53.157726] }, "name" : "Szkoły podstawowe", "city" : "Piła" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.750116, 53.154958] }, "name" : "Szkoły podstawowe", "city" : "Piła" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.211535, 54.195126] }, "name" : "Szkoły podstawowe", "city" : "Koszalin" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.127811, 54.115306] }, "name" : "Szkoły podstawowe", "city" : "Orneta" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.134854, 54.115347] }, "name" : "Szkoły podstawowe", "city" : "Orneta" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.730368, 54.324765] }, "name" : "Szkoły podstawowe", "city" : "Bezledy" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.802737, 54.259815] }, "name" : "Szkoły podstawowe", "city" : "Bartoszyce" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.815677, 54.259223] }, "name" : "Szkoły podstawowe", "city" : "Bartoszyce" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.486351, 53.253357] }, "name" : "Szkoły podstawowe", "city" : "Gryfino" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.502953, 52.469286] }, "name" : "Szkoły podstawowe", "city" : "Mokra Wieś" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.442467, 52.430989] }, "name" : "Szkoły podstawowe", "city" : "Tłuszcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.774538, 53.775005] }, "name" : "Szkoły podstawowe", "city" : "Świdwin" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.779181, 53.780891] }, "name" : "Szkoły podstawowe", "city" : "Świdwin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.208058, 52.806980] }, "name" : "Szkoły podstawowe", "city" : "Wągrowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.193745, 52.804792] }, "name" : "Szkoły podstawowe", "city" : "Wągrowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.208534, 52.816897] }, "name" : "Szkoły podstawowe", "city" : "Wągrowiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.073862, 51.746907] }, "name" : "Szkoły podstawowe", "city" : "Kalisz" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.699453, 51.899696] }, "name" : "Szkoły podstawowe", "city" : "Kąkolewnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [14.549925, 53.537237] }, "name" : "Szkoły podstawowe", "city" : "Police" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.487120, 50.419177] }, "name" : "Szkoły podstawowe", "city" : "Lipiny Górne-Borowina" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.469895, 50.410938] }, "name" : "Szkoły podstawowe", "city" : "Lipiny Dolne" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.406444, 54.792457] }, "name" : "Szkoły podstawowe", "city" : "Władysławowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.386593, 54.802133] }, "name" : "Szkoły podstawowe", "city" : "Władysławowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.777316, 53.804560] }, "name" : "Szkoły podstawowe", "city" : "Piaseczno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.832074, 53.763917] }, "name" : "Szkoły podstawowe", "city" : "Miłomłyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.717321, 50.535834] }, "name" : "Szkoły podstawowe", "city" : "Biłgoraj" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.602008, 53.030487] }, "name" : "Szkoły podstawowe", "city" : "Toruń" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.946687, 53.276641] }, "name" : "Szkoły podstawowe", "city" : "Wąbrzeźno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.944594, 53.285640] }, "name" : "Szkoły podstawowe", "city" : "Wąbrzeźno" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.895212, 53.019970] }, "name" : "Szkoły podstawowe", "city" : "Przasnysz" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.881736, 53.019514] }, "name" : "Szkoły podstawowe", "city" : "Przasnysz" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.830400, 52.188865] }, "name" : "Szkoły podstawowe", "city" : "Piastów" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.487955, 52.037243] }, "name" : "Szkoły podstawowe", "city" : "Wółka Dobrzyńska" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.727212, 54.135205] }, "name" : "Szkoły podstawowe", "city" : "Dygowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.583574, 54.176989] }, "name" : "Szkoły podstawowe", "city" : "Kołobrzeg" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.473832, 50.832885] }, "name" : "Szkoły podstawowe", "city" : "Świdnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.109194, 50.799120] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.104763, 50.807813] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.123592, 50.840568] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.130684, 50.779376] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.157624, 50.836069] }, "name" : "Szkoły podstawowe", "city" : "Częstochowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.492305, 49.577523] }, "name" : "Szkoły podstawowe", "city" : "Skalnik" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.723074, 51.309776] }, "name" : "Szkoły podstawowe", "city" : "Syców" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.908606, 52.607620] }, "name" : "Szkoły podstawowe", "city" : "Brześć Kujawski" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.880014, 52.610453] }, "name" : "Szkoły podstawowe", "city" : "Brześć Kujawski" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.545084, 54.509936] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.100059, 49.887195] }, "name" : "Szkoły podstawowe", "city" : "Błażowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.960803, 49.971243] }, "name" : "Szkoły podstawowe", "city" : "Pszczyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.961854, 49.971002] }, "name" : "Szkoły podstawowe", "city" : "Pszczyna" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.286064, 51.124117] }, "name" : "Szkoły podstawowe", "city" : "Lubań " }
+{ "loc" : {"type" : "Point", "coordinates" : [16.638705, 52.088874] }, "name" : "Szkoły podstawowe", "city" : "Kościan" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.633001, 52.082441] }, "name" : "Szkoły podstawowe", "city" : "Kościan" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.632142, 52.074406] }, "name" : "Szkoły podstawowe", "city" : "Kościan" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.652365, 52.089785] }, "name" : "Szkoły podstawowe", "city" : "Kościan" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.168887, 51.403861] }, "name" : "Szkoły podstawowe", "city" : "Lubin" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.993629, 52.340374] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.973823, 52.326540] }, "name" : "Szkoły podstawowe", "city" : "Warszawa" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.707155, 51.309828] }, "name" : "Szkoły podstawowe", "city" : "Syców" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.090589, 52.053999] }, "name" : "Szkoły podstawowe", "city" : "Krosno Odrzańskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.098667, 52.041415] }, "name" : "Szkoły podstawowe", "city" : "Krosno Odrzańskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.107140, 52.055338] }, "name" : "Szkoły podstawowe", "city" : "Krosno Odrzańskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.592031, 52.124942] }, "name" : "Szkoły podstawowe", "city" : "Kalsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.841412, 52.851932] }, "name" : "Szkoły podstawowe", "city" : "Drezdenko" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.827996, 52.839898] }, "name" : "Szkoły podstawowe", "city" : "Drezdenko" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.963007, 52.897917] }, "name" : "Szkoły podstawowe", "city" : "Drawiny" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.257203, 52.506013] }, "name" : "Szkoły podstawowe", "city" : "Pniewy" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.084789, 52.551986] }, "name" : "Szkoły podstawowe", "city" : "Kwilcz" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.348801, 50.968484] }, "name" : "Szkoły podstawowe", "city" : "Strzegom" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.330653, 50.952735] }, "name" : "Szkoły podstawowe", "city" : "Strzegom" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.350125, 50.960665] }, "name" : "Szkoły podstawowe", "city" : "Strzegom" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.554978, 51.936344] }, "name" : "Szkoły podstawowe", "city" : "Zielona Góra" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.311115, 50.163759] }, "name" : "Szkoły podstawowe", "city" : "Nędza" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.906235, 52.514361] }, "name" : "Szkoły podstawowe", "city" : "Kłobia" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.559186, 49.661291] }, "name" : "Szkoły podstawowe", "city" : "Zawoja" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.229568, 49.812774] }, "name" : "Szkoły podstawowe", "city" : "Dynów" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.275648, 50.945615] }, "name" : "Szkoły podstawowe", "city" : "Oława" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.284053, 50.945697] }, "name" : "Szkoły podstawowe", "city" : "Oława" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.293071, 50.941051] }, "name" : "Szkoły podstawowe", "city" : "Oława" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.305023, 50.942362] }, "name" : "Szkoły podstawowe", "city" : "Oława" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.299605, 50.936074] }, "name" : "Szkoły podstawowe", "city" : "Oława" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.227608, 50.989028] }, "name" : "Szkoły podstawowe", "city" : "Marcinkowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.931427, 50.042490] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.521805, 49.862786] }, "name" : "Szkoły podstawowe", "city" : "Jaroszowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.481551, 49.856164] }, "name" : "Szkoły podstawowe", "city" : "Zawadka" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.211671, 50.813714] }, "name" : "Szkoły podstawowe", "city" : "Wiązów" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.064001, 50.785752] }, "name" : "Szkoły podstawowe", "city" : "Strzelin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.086923, 50.779093] }, "name" : "Szkoły podstawowe", "city" : "Strzelin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.318840, 51.022209] }, "name" : "Szkoły podstawowe", "city" : "Jelcz-Laskowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.332639, 51.035121] }, "name" : "Szkoły podstawowe", "city" : "Jelcz-Laskowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.435211, 51.794981] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.322129, 51.750773] }, "name" : "Szkoły podstawowe", "city" : "Konstantynów Łódzki" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.390180, 51.747754] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.387935, 51.747429] }, "name" : "Szkoły podstawowe", "city" : "Łódź" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.608332, 53.326676] }, "name" : "Szkoły podstawowe", "city" : "Brzozie" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.415277, 53.067520] }, "name" : "Szkoły podstawowe", "city" : "Rypin" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.416313, 53.063043] }, "name" : "Szkoły podstawowe", "city" : "Rypin" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.491142, 50.493467] }, "name" : "Szkoły podstawowe", "city" : "Zawiercie" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.006485, 51.116957] }, "name" : "Szkoły podstawowe", "city" : "Wrocław" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.009260, 51.118691] }, "name" : "Szkoły podstawowe", "city" : "Wrocław" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.344338, 54.596343] }, "name" : "Szkoły podstawowe", "city" : "Reda" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.770614, 53.023408] }, "name" : "Szkoły podstawowe", "city" : "Lubicz Górny" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.410035, 53.274414] }, "name" : "Szkoły podstawowe", "city" : "Brodnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.427873, 50.494231] }, "name" : "Szkoły podstawowe", "city" : "Zawiercie" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.426565, 50.484010] }, "name" : "Szkoły podstawowe", "city" : "Zawiercie" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.043991, 52.477270] }, "name" : "Szkoły podstawowe", "city" : "Jadwisin" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.509881, 54.494331] }, "name" : "Szkoły podstawowe", "city" : "Gdynia" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.913619, 52.425525] }, "name" : "Szkoły podstawowe", "city" : "Poznań" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.947218, 49.984752] }, "name" : "Szkoły podstawowe", "city" : "Boguchwała" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.791888, 49.577567] }, "name" : "Szkoły podstawowe", "city" : "Iwonicz-Zdrój" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.040182, 50.077906] }, "name" : "Szkoły podstawowe", "city" : "Trzebownisko" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.958998, 50.005842] }, "name" : "Szkoły podstawowe", "city" : "Rzeszów" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.236148, 50.071039] }, "name" : "Szkoły podstawowe", "city" : "Łańcut" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.216701, 50.067108] }, "name" : "Szkoły podstawowe", "city" : "Łańcut" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.234702, 50.089779] }, "name" : "Szkoły podstawowe", "city" : "Łańcut" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.800517, 49.604146] }, "name" : "Szkoły podstawowe", "city" : "Iwonicz" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.465023, 50.284716] }, "name" : "Szkoły podstawowe", "city" : "Mielec" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.389510, 50.317530] }, "name" : "Szkoły podstawowe", "city" : "Skalbmierz" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.418842, 50.252007] }, "name" : "Szkoły podstawowe", "city" : "Kamieńczyce" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.480235, 50.284520] }, "name" : "Szkoły podstawowe", "city" : "Cudzynowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.173725, 54.372274] }, "name" : "Szkoły podstawowe", "city" : "Zagaje" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.952226, 52.424717] }, "name" : "Szkoły podstawowe", "city" : "Łajski" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.968300, 52.451282] }, "name" : "Szkoły podstawowe", "city" : "Wieliszew" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.203428, 54.336249] }, "name" : "Szkoły podstawowe", "city" : "Kartuzy" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.412504, 54.164956] }, "name" : "Szkoły podstawowe", "city" : "Elbląg" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.412369, 54.167788] }, "name" : "Szkoły podstawowe", "city" : "Elbląg" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.396351, 54.188522] }, "name" : "Szkoły podstawowe", "city" : "Elbląg" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.248947, 51.762070] }, "name" : "Szkoły podstawowe", "city" : "Rawa Mazowiecka" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.262434, 51.774275] }, "name" : "Szkoły podstawowe", "city" : "Rawa Mazowiecka" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.257320, 51.765076] }, "name" : "Szkoły podstawowe", "city" : "Mazowiecka" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.664709, 51.406691] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.673275, 51.412320] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.701995, 51.412946] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.688992, 51.410495] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.694890, 51.410049] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.709245, 51.405349] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.680480, 51.402567] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.697023, 51.405273] }, "name" : "Szkoły podstawowe", "city" : "Piotrków Trybunalski" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.999882, 51.147758] }, "name" : "Szkoły podstawowe", "city" : "Pajęczno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.185358, 52.843050] }, "name" : "Szkoły podstawowe", "city" : "Lipno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.179569, 52.851931] }, "name" : "Szkoły podstawowe", "city" : "Lipno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.178367, 52.840801] }, "name" : "Szkoły podstawowe", "city" : "Lipno" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.675251, 50.346413] }, "name" : "Szkoły podstawowe", "city" : "Wiślica" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.673195, 53.093220] }, "name" : "Szkoły podstawowe", "city" : "Gródek" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.638399, 52.653440] }, "name" : "Szkoły podstawowe", "city" : "Szamotuły" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.309266, 53.282398] }, "name" : "Szkoły podstawowe", "city" : "Jedwabne" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.623982, 54.180885] }, "name" : "Szkoły podstawowe", "city" : "Filipów" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.825147, 53.774809] }, "name" : "Szkoły podstawowe", "city" : "Bargłów Kościelny" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.839564, 52.747907] }, "name" : "Szkoły podstawowe", "city" : "Brańsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.812295, 51.647148] }, "name" : "Szkoły podstawowe", "city" : "Ostrów Wielkopolski" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.028283, 52.464978] }, "name" : "Szkoły podstawowe", "city" : "Zegrze" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.013405, 53.572416] }, "name" : "Szkoły podstawowe", "city" : "Cekcyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.278949, 54.297907] }, "name" : "Szkoły podstawowe", "city" : "Iwięcino" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.183808, 52.413774] }, "name" : "Szkoły podstawowe", "city" : "Radzymin" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.056982, 52.393247] }, "name" : "Szkoły podstawowe", "city" : "Izabelin" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.930441, 52.643338] }, "name" : "Szkoły podstawowe", "city" : "Wieniec" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.283151, 53.568409] }, "name" : "Szkoły podstawowe", "city" : "Szczuczyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.872329, 49.987833] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.314367, 53.517598] }, "name" : "Szkoły podstawowe", "city" : "Wąsosz" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.126253, 53.663847] }, "name" : "Szkoły podstawowe", "city" : "Nowogard" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.112574, 53.673114] }, "name" : "Szkoły podstawowe", "city" : "Nowogard" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.136907, 53.663281] }, "name" : "Szkoły podstawowe", "city" : "Nowogard" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.121179, 53.686974] }, "name" : "Szkoły podstawowe", "city" : "Nowogard" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.090842, 52.414533] }, "name" : "Szkoły podstawowe", "city" : "Wólka Radzymińska" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.158857, 53.380719] }, "name" : "Szkoły podstawowe", "city" : "Stawiski" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.805235, 53.403938] }, "name" : "Szkoły podstawowe", "city" : "Mońki" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.730555, 53.486703] }, "name" : "Szkoły podstawowe", "city" : "Goniądz" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.341231, 54.106869] }, "name" : "Szkoły podstawowe", "city" : "Sejny" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.648342, 52.401768] }, "name" : "Szkoły podstawowe", "city" : "Drohiczyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.080834, 52.463008] }, "name" : "Szkoły podstawowe", "city" : "Nurzec-Stacja" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.522238, 53.398280] }, "name" : "Szkoły podstawowe", "city" : "Sokółka" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.784342, 53.266490] }, "name" : "Szkoły podstawowe", "city" : "Krynki" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.109170, 53.575845] }, "name" : "Szkoły podstawowe", "city" : "Suchowola" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.322345, 52.798067] }, "name" : "Szkoły podstawowe", "city" : "Czyżew" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.208637, 50.412777] }, "name" : "Szkoły podstawowe", "city" : "Susiec" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.172611, 50.458805] }, "name" : "Szkoły podstawowe", "city" : "Majdan Sopocki" }
+{ "loc" : {"type" : "Point", "coordinates" : [23.796107, 51.167969] }, "name" : "Szkoły podstawowe", "city" : "Dorohusk-Osada" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.396949, 53.656821] }, "name" : "Szkoły podstawowe", "city" : "Stawiguda" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.910705, 53.071020] }, "name" : "Szkoły podstawowe", "city" : "Żuromin" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.916288, 53.064614] }, "name" : "Szkoły podstawowe", "city" : "Żuromin" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.366417, 52.629235] }, "name" : "Szkoły podstawowe", "city" : "Płońsk" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.092232, 50.090590] }, "name" : "Szkoły podstawowe", "city" : "Bieruń" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.422897, 50.524131] }, "name" : "Szkoły podstawowe", "city" : "Rudniki" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.414172, 50.508412] }, "name" : "Szkoły podstawowe", "city" : "Zawiercie" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.454513, 50.550880] }, "name" : "Szkoły podstawowe", "city" : "Włodowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.600659, 53.242142] }, "name" : "Szkoły podstawowe", "city" : "Mrocza" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.233691, 53.542269] }, "name" : "Szkoły podstawowe", "city" : "Debrzno" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.986920, 50.713882] }, "name" : "Szkoły podstawowe", "city" : "Radków" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.015255, 50.280120] }, "name" : "Szkoły podstawowe", "city" : "Katowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.016047, 50.284520] }, "name" : "Szkoły podstawowe", "city" : "Katowice" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.777493, 49.641644] }, "name" : "Szkoły podstawowe", "city" : "Bystra" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.013880, 50.069028] }, "name" : "Szkoły podstawowe", "city" : "Kraków" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.211625, 49.476211] }, "name" : "Szkoły podstawowe", "city" : "Szlembark" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.948251, 42.203264] }, "name" : "Szkoły podstawowe", "city" : "Petrovac" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.163686, 52.307117] }, "name" : "Szkoły podstawowe", "city" : "Kazimierz Biskupi" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.087482, 52.243588] }, "name" : "Szkoły podstawowe", "city" : "Golina" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.765063, 52.440710] }, "name" : "Szkoły podstawowe", "city" : "Witkowo" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.303601, 52.364600] }, "name" : "Szkoły podstawowe", "city" : "Ślesin" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.157870, 52.160899] }, "name" : "Szkoły podstawowe", "city" : "Zaniemyśl" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.856005, 51.607381] }, "name" : "Szkoły podstawowe", "city" : "Rawicz" }
+{ "loc" : {"type" : "Point", "coordinates" : [19.561915, 53.596604] }, "name" : "Szkoły podstawowe", "city" : "Iława" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.367291, 54.076540] }, "name" : "Szkoły podstawowe", "city" : "Kętrzyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.679790, 54.369609] }, "name" : "Szkoły podstawowe", "city" : "Sławno" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.801511, 53.628543] }, "name" : "Szkoły podstawowe", "city" : "Pisz" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.877423, 51.863703] }, "name" : "Szkoły podstawowe", "city" : "Grójec" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.523687, 53.450606] }, "name" : "Szkoły podstawowe", "city" : "Sępólno Krajeńskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [17.535735, 53.457656] }, "name" : "Szkoły podstawowe", "city" : "Sępólno Krajeńskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.429884, 53.408325] }, "name" : "Szkoły podstawowe", "city" : "Świecie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.444662, 53.410870] }, "name" : "Szkoły podstawowe", "city" : "Świecie" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.729465, 50.897121] }, "name" : "Szkoły podstawowe", "city" : "Jelenia Góra" }
+{ "loc" : {"type" : "Point", "coordinates" : [15.740446, 50.901054] }, "name" : "Szkoły podstawowe", "city" : "Jelenia Góra" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.022764, 50.783777] }, "name" : "Szkoły podstawowe", "city" : "Kamienna Góra" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.038818, 49.702129] }, "name" : "Szkoły podstawowe", "city" : "Kasinka Mała" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.816361, 51.252320] }, "name" : "Szkoły podstawowe", "city" : "Pawłów" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.709165, 52.144260] }, "name" : "Szkoły podstawowe", "city" : "Brwinów" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.809493, 52.096230] }, "name" : "Szkoły podstawowe", "city" : "Nadarzyn" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.725960, 52.118406] }, "name" : "Szkoły podstawowe", "city" : "Podkowa Leśna" }
+{ "loc" : {"type" : "Point", "coordinates" : [20.728148, 52.120701] }, "name" : "Szkoły podstawowe", "city" : "Podkowa Leśna" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.601243, 51.163889] }, "name" : "Szkoły podstawowe", "city" : "Środa Śląska" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.476630, 50.834542] }, "name" : "Szkoły podstawowe", "city" : "Świdnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.466623, 50.845530] }, "name" : "Szkoły podstawowe", "city" : "Świdnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.493114, 50.844083] }, "name" : "Szkoły podstawowe", "city" : "Świdnica" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.530212, 51.663178] }, "name" : "Szkoły podstawowe", "city" : "Góra" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.542657, 51.671498] }, "name" : "Szkoły podstawowe", "city" : "Góra " }
+{ "loc" : {"type" : "Point", "coordinates" : [19.735819, 49.897822] }, "name" : "Szkoły podstawowe", "city" : "Leńcze" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.414916, 50.879628] }, "name" : "Szkoły podstawowe", "city" : "Olesno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.424364, 50.873588] }, "name" : "Szkoły podstawowe", "city" : "Olesno" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.391737, 50.896693] }, "name" : "Szkoły podstawowe", "city" : "Wojciechów" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.297107, 50.516652] }, "name" : "Szkoły podstawowe", "city" : "Strzelce Opolskie" }
+{ "loc" : {"type" : "Point", "coordinates" : [18.791830, 50.037672] }, "name" : "Szkoły podstawowe", "city" : "Suszec" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.422197, 50.806592] }, "name" : "Szkoły podstawowe", "city" : "Opatów" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.429653, 50.798088] }, "name" : "Szkoły podstawowe", "city" : "Opatów" }
+{ "loc" : {"type" : "Point", "coordinates" : [21.171580, 50.564918] }, "name" : "Szkoły podstawowe", "city" : "Staszów" }
+{ "loc" : {"type" : "Point", "coordinates" : [22.062431, 51.188781] }, "name" : "Szkoły podstawowe", "city" : "Poniatowa" }
+{ "loc" : {"type" : "Point", "coordinates" : [16.096803, 53.455934] }, "name" : "Szkoły podstawowe", "city" : "Wierzchowo" }
+
+
