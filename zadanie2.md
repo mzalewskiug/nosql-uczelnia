@@ -97,7 +97,7 @@ db.imdb.aggregate(
 }
 ```
 
-![Alt text](/master/img/aggr1.png)
+![Alt text](/img/aggr1.png)
 
 ### Agregacja nr 2
 
@@ -180,7 +180,7 @@ db.imdb.aggregate(
 }
 ```
 
-![Alt text](/master/img/aggr2.png)
+![Alt text](/img/aggr2.png)
 
 ### Agregacja nr 3
 
@@ -264,7 +264,7 @@ db.imdb.aggregate(
 
 ```
 
-![Alt text](/master/img/aggr3.png)
+![Alt text](/img/aggr3.png)
 
 ### Agregacja nr 4
 
@@ -360,4 +360,4 @@ db.imdb.aggregate(
 
 ```
 
-![Alt text](/master/img/aggr4.png)
+![Alt text](/img/aggr4.png)
