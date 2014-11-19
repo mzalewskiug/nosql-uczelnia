@@ -1,28 +1,28 @@
-Do rozwi¹zania zadania pos³u¿y³em siê baz¹ danych [GetGlue](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz). S¹ to dane z serwisu [IMDB](http://imdb.com) z lat 2007 - 2012 dotycz¹ce filmów i seriali. 
+ï»¿Do rozwiÄ…zania zadania posÅ‚uÅ¼yÅ‚em siÄ™ bazÄ… danych [GetGlue](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz). SÄ… to dane z serwisu [IMDB](http://imdb.com) z lat 2007 - 2012 dotyczÄ…ce filmÃ³w i seriali. 
 
 ### Import
 
-Importu dokona³em nastêpuj¹cym poleceniem:
+Importu dokonaÅ‚em nastÄ™pujÄ…cym poleceniem:
 
 ```sh
 mongoimport --db imdb -c imdb --type json --file /media/pc/14599F0F06EA98FB/nosql/getglue_sample.json
 ```
 
-Czas dla tej operacji wyniós³ 19m10s. Czas jest zawy¿ony (- by³em zmuszony do wrzucenia jsonów na inn¹ partycjê, gdy¿ skoñczy³o mi siê miejsce na linuxowej. Jest to inna partycja (ntfs) ni¿ ta, na której jest linux (ext4), co odbija siê doœæ znacz¹co na czasie importu. Wczeœniej (operuj¹c na tej samej partycji) mongo importowa³o oko³o ~21 500 rekordów na sekundê (a czas wyniós³ oko³o 14m30s), natomiast w tym wypadku zaczê³o od ~23 000 na sekundê, po czym zaczê³o sukcesywnie spadaæ (nawet do ~16 000!). 
+Czas dla tej operacji wyniÃ³sÅ‚ 19m10s. Czas jest zawyÅ¼ony (- byÅ‚em zmuszony do wrzucenia jsonÃ³w na innÄ… partycjÄ™, gdyÅ¼ skoÅ„czyÅ‚o mi siÄ™ miejsce na linuxowej. Jest to inna partycja (ntfs) niÅ¼ ta, na ktÃ³rej jest linux (ext4), co odbija siÄ™ doÅ›Ä‡ znaczÄ…co na czasie importu. WczeÅ›niej (operujÄ…c na tej samej partycji) mongo importowaÅ‚o okoÅ‚o ~21 500 rekordÃ³w na sekundÄ™ (a czas wyniÃ³sÅ‚ okoÅ‚o 14m30s), natomiast w tym wypadku zaczÄ™Å‚o od ~23 000 na sekundÄ™, po czym zaczÄ™Å‚o sukcesywnie spadaÄ‡ (nawet do ~16 000!). 
 
-Mo¿na przypuszczaæ, ¿e problemy z wydajnoœci¹ Mongo pod Windowsem mog¹ byæ uzale¿nione od systemu plików (w koñcu Windowsy od XP w górê raczej u¿ywaj¹ ntfsa), aczkolwiek nie ukrywam, ¿e by³oby to bardzo dziwne.
+MoÅ¼na przypuszczaÄ‡, Å¼e problemy z wydajnoÅ›ciÄ… Mongo pod Windowsem mogÄ… byÄ‡ uzaleÅ¼nione od systemu plikÃ³w (w koÅ„cu Windowsy od XP w gÃ³rÄ™ raczej uÅ¼ywajÄ… ntfsa), aczkolwiek nie ukrywam, Å¼e byÅ‚oby to bardzo dziwne.
 
 ### Agregacje - przygotowanie
 
-Do agregacji wykrzysta³em bibliotekê [pymongo](http://api.mongodb.org/python/current/). 
+Do agregacji wykrzystaÅ‚em bibliotekÄ™ [pymongo](http://api.mongodb.org/python/current/). 
 
-Bibliotekê instalujemy za pomoc¹ pip wpisuj¹c:
+BibliotekÄ™ instalujemy za pomocÄ… pip wpisujÄ…c:
  
 pip install pymongo
 
 ### Agregacja nr 1
 
-Szukamy 10 filmów z najwiêksz¹ iloœci¹ pozytywnych komentarzy:
+Szukamy 10 filmÃ³w z najwiÄ™kszÄ… iloÅ›ciÄ… pozytywnych komentarzy:
 
 #####MongoDB
 
@@ -99,7 +99,7 @@ db.imdb.aggregate(
 
 ### Agregacja nr 2
 
-Szukamy 10 najpopularniejszych filmów:
+Szukamy 10 najpopularniejszych filmÃ³w:
 
 #####MongoDB
 
@@ -263,7 +263,7 @@ db.imdb.aggregate(
 
 ### Agregacja nr 4
 
-Szukamy 12 re¿yserów, którzy nakrêcili najwiêcej filmów (wczeœniej by³o 10, ale dwa pierwsze wyniki zwracaj¹ "not available" i "various directors", a chodzi o nazwiska).
+Szukamy 12 reÅ¼yserÃ³w, ktÃ³rzy nakrÄ™cili najwiÄ™cej filmÃ³w (wczeÅ›niej byÅ‚o 10, ale dwa pierwsze wyniki zwracajÄ… "not available" i "various directors", a chodzi o nazwiska).
 
 #####MongoDB
 
