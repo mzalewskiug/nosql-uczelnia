@@ -4,9 +4,9 @@ Do rozwi¹zania zadania pos³u¿y³em siê baz¹ danych [GetGlue](http://getglue-data.
 
 Importu dokona³em nastêpuj¹cym poleceniem:
 
-'''sh
+```sh
 mongoimport --db imdb -c imdb --type json --file /media/pc/14599F0F06EA98FB/nosql/getglue_sample.json
-'''
+```
 
 Czas dla tej operacji wyniós³ 19m10s. Czas jest zawy¿ony (- by³em zmuszony do wrzucenia jsonów na inn¹ partycjê, gdy¿ skoñczy³o mi siê miejsce na linuxowej. Jest to inna partycja (ntfs) ni¿ ta, na której jest linux (ext4), co odbija siê doœæ znacz¹co na czasie importu. Wczeœniej (operuj¹c na tej samej partycji) mongo importowa³o oko³o ~21 500 rekordów na sekundê (a czas wyniós³ oko³o 14m30s), natomiast w tym wypadku zaczê³o od ~23 000 na sekundê, po czym zaczê³o sukcesywnie spadaæ (nawet do ~16 000!). 
 
@@ -26,14 +26,17 @@ Szukamy 10 filmów z najwiêksz¹ iloœci¹ pozytywnych komentarzy:
 
 #####MongoDB
 
+```sh
 db.imdb.aggregate( 
 	{ $match: { "action": "Liked" }},
 	{ $match: { "comment": {$ne: ""} } }, 
 	{ $group: { _id: "$title", count: {$sum: 1} } }, 
 	{ $sort: { count: -1 } }, { $limit: 10 } );
+```
 
 #####pymongo
 
+```sh
 from pymongo import MongoClient
 db = MongoClient().imdb
 db.imdb.aggregate( 
@@ -42,9 +45,11 @@ db.imdb.aggregate(
 	{ "$group": { "_id": "$title", "count": {"$sum": 1} } }, 
 	{ "$sort": { "count": -1 } }, 
 	{ "$limit": 10 } );
-
+```
+	
 #####Rezultat:
 
+```sh
 {
 	"result" : [
 		{
@@ -90,7 +95,7 @@ db.imdb.aggregate(
 	],
 	"ok" : 1
 }
-
+```
 
 ### Agregacja nr 2
 
@@ -98,12 +103,18 @@ Szukamy 10 najpopularniejszych filmów:
 
 #####MongoDB
 
+```sh
+
 db.imdb.aggregate(
     { $match: {"modelName": "movies"  } },
     { $group: {_id: "$title", count: {$sum: 1}} },
     { $sort: {count: -1} },
     { $limit : 10}
     );
+	
+```
+
+```sh
 
 #####pymongo
 
@@ -115,9 +126,11 @@ db.imdb.aggregate(
     { "$sort": {"count": -1} },
     { "$limit" : 10}
     );
+```
 
 #####Rezultat:
 
+```sh
 {
 	"result" : [
 		{
@@ -163,7 +176,7 @@ db.imdb.aggregate(
 	],
 	"ok" : 1
 }
-
+```
 
 
 ### Agregacja nr 3
@@ -172,14 +185,18 @@ Szukamy 10 najpopularniejszych seriali:
 
 #####MongoDB
 
+```sh
 db.imdb.aggregate(
     { $match: {"modelName": "tv_shows"  } },
     { $group: {_id: "$title", count: {$sum: 1}} },
     { $sort: {count: -1} },
     { $limit : 10}
     );
-
+```
+	
 #####pymongo
+
+```sh
 
 from pymongo import MongoClient
 db = MongoClient().imdb
@@ -190,7 +207,11 @@ db.imdb.aggregate(
     { "$limit" : 10}
     );
 
+	```
+	
 #####Rezultat:
+
+```sh
 
 {
 	"result" : [
@@ -238,12 +259,15 @@ db.imdb.aggregate(
 	"ok" : 1
 }
 
+```
 
 ### Agregacja nr 4
 
 Szukamy 12 re¿yserów, którzy nakrêcili najwiêcej filmów (wczeœniej by³o 10, ale dwa pierwsze wyniki zwracaj¹ "not available" i "various directors", a chodzi o nazwiska).
 
 #####MongoDB
+
+```sh
 
 db.imdb.aggregate(
     { $match: {"modelName": "movies" || "tv_shows"  } },
@@ -252,6 +276,10 @@ db.imdb.aggregate(
     { $sort: {count: -1} },
     { $limit : 12}
     );
+	
+```
+
+```sh
 
 #####pymongo
 
@@ -264,8 +292,12 @@ db.imdb.aggregate(
     { "$sort": {"count": -1} },
     { "$limit" : 12}
     );
+	
+```
 
 #####Rezultat:
+
+```sh
 
 {
 	"result" : [
@@ -321,6 +353,6 @@ db.imdb.aggregate(
 	"ok" : 1
 }
 
-
+```
 
 

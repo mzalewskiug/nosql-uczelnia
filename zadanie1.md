@@ -4,7 +4,7 @@ Sprzêt, na którym pracujê: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 17
 
 Najpierw przetworzy³em bazê za pomoc¹ skryptu z repozytorium prowadz¹cego:
 
-'''sh
+```sh
 if [ -z "$1" ] ; then
 echo "First replaces all the \\n with spaces then replaces all the \\r with \\n"
 echo "Replace header line with: _id,title,body,tags (for mongoDB)"
@@ -17,30 +17,30 @@ sed -i '$ d' "$2"
 
 sed -i '1 c "_id","title","body","tags"' "$2" 
 
-'''
+```
 
 PóŸniej zaimportowa³em plik do bazy za pomoc¹ polecenia:
 
-'''sh
+```sh
 time mongoimport -c Topics --type csv --file Train2.csv --headerline
-'''
+```
 
 W wypadku Postgresa wygl¹da to nieco inaczej - najpierw trzeba stworzyæ odpowiedni¹ tabelê:
 
-'''sh
+```sh
 CREATE TABLE Topics(
 ID INT PRIMARY KEY NOT NULL,
 TITLE CHAR(128) NOT NULL,
 BODY CHAR(128) NOT NULL,
 TAGS CHAR(128) NOT NULL,
 );
-'''
+```
 
 Dopiero potem mo¿emy wype³niæ tabelê danymi z pliku:
 
-'''sh
+```sh
 COPY Topics FROM '/home/pc/nosql/Train2.csv' DELIMITER ',' CSV;
-'''
+```
 
 Czasy dla importu wynios³y:
 
@@ -52,15 +52,15 @@ Czasy dla importu wynios³y:
 
 Do obliczenia iloœci zaimportowanych rekordów u¿y³em polecenia:
 
-'''sh
+```sh
 db.Topics.count()
-'''
+```
 
 które da³o wynik 6034195.
 
 Zadanie 1c
 
-'''sh
+```sh
 baza = db.Train.find();
 
 var tagsUnique = {};
@@ -87,7 +87,7 @@ baza.forEach(function(train){
 print("Wszystkie: " + tagsNumber);
 print("Unikalne: " + Object.keys(tagsUnique).length);
 
-'''
+```
 
 Zadanie 1d
 
@@ -95,38 +95,38 @@ Do rozwi¹zania zadania u¿y³em danych ze strony poipoint.pl. Dane dotycz¹ lokaliz
 
 Na pocz¹tek zaimportowa³em dane do mongo
 
-'''sh
+```sh
 mongoimport --db zadanie -d geo -c schools < /home/pc/nosql/szkoly.json
-'''
+```
 
 Do bazy wykona³em nastêpuj¹ce zapytania:
 
 
-'''sh
+```sh
 db.schools.ensureIndex({"loc" : "2dsphere"})
-'''
+```
 
 by ca³oœæ mia³a prawo dzia³aæ.
 
 Szko³y podstawowe w odleg³oœci 50 km od Gdañska
 
 
-'''sh
+```sh
  db.schools.find( { loc : { $near :
                          { $geometry :
                              { type : "Point" ,
                                coordinates: [ 18.639, 54.360 ] } },
                            $maxDistance : 50000
               } }, { _id: 0 } )
-'''
+```
 
 Szko³y podstawowe w odleg³oœci 50 km od Warszawy
 
-'''sh
+```sh
  db.schools.find( { loc : { $near :
                          { $geometry :
                              { type : "Point" ,
                                coordinates: [ 21.020, 52.259 ] } },
                            $maxDistance : 50000
               } }, { _id: 0 } )
-'''
+```
