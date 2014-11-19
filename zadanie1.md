@@ -116,7 +116,7 @@ Szkoły podstawowe w odległości 50 km od Gdańska
               } }, { _id: 0 } )
 ```
 
-[JSON](/data/zapytanie nr 1.json), [GeoJSON](master/data/zapytanie nr 1.geojson)
+[JSON](/data/zapytanie nr 1.json), [GeoJSON](/data/zapytanie nr 1.geojson)
 
 Szkoły podstawowe w odległości 50 km od Warszawy
 
@@ -129,6 +129,5 @@ Szkoły podstawowe w odległości 50 km od Warszawy
               } }, { _id: 0 } )
 ```
 
-[JSON](master/data/zapytanie nr 2.json), [GeoJSON](master/data/zapytanie nr 2.geojson)
+[JSON](/data/zapytanie nr 2.json), [GeoJSON](/data/zapytanie nr 2.geojson)
 
-sdfd
