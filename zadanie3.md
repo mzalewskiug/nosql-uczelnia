@@ -69,7 +69,7 @@ Import potrwał trochę dłużej:
 
 ```sh
 real  51m50.747s
-user	6m13.195s
+user  6m13.195s
 sys	  1m21.482s
 ```
 
