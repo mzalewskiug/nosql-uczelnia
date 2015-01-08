@@ -1,15 +1,15 @@
-Sprzêt, na którym pracujê: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 17
+SprzÄ™t, na ktÃ³rym pracujÄ™: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 17
 
 #Zadanie 3
 
 ###ANAGRAMY
 
-Plik [word_list.txt](http://wbzyl.inf.ug.edu.pl/nosql/doc/data/word_list.txt) wczyta³em za pomoc¹ nastêpuj¹cego polecenia:
+Plik [word_list.txt](http://wbzyl.inf.ug.edu.pl/nosql/doc/data/word_list.txt) wczytaÅ‚em za pomocÄ… nastÄ™pujÄ…cego polecenia:
 
 ``` 
 mongoimport -d anagrams -c anagrams --type csv --file /media/pc/863E2B1D3E2B05B1/nosql/word_list.txt -f "words"```
 
-Nastêpnie skorzysta³em z mapreduce:
+NastÄ™pnie skorzystaÅ‚em z mapreduce:
 
 ```
 db.anagrams.mapReduce(
@@ -31,13 +31,13 @@ db.anagrams.mapReduce(
 
 ###WIKIPEDIA
 
-Do wykonania zadania wykorzysta³em [plik z artyku³ami z wikipedii](http://dumps.wikimedia.org/plwiki/latest/plwiki-latest-pages-articles-multistream.xml.bz2). Plik jest w formacie xml, co oznacza, ¿e nie da siê go zaimportowaæ do mongo - trzeba go skonwertowaæ. Moje próby skonwertowania tak du¿ego pliku xml do jsona zakoñczy³y siê fiaskiem - wiêkszoœæ narzêdzi, które próbowa³em (np. [[1]](https://github.com/parmentf/xml2json), [[2]](https://github.com/hay/xml2json), [[3]](https://github.com/yihuang/xml2json) - wszystkie nazywaj¹ siê tak samo, bo xml2json) wywala³a b³êdy w stylu OutOfMemoryException i MemoryError (z powodu wielkoœci pliku), tak wiêc postanowi³em spróbowaæ z konwersj¹ do csv. W tym celu pos³u¿y³em siê narzêdziem [XML2CSVGenericConverter](http://sourceforge.net/projects/xml2csvgenericconverter/files/?source=navbar):
+Do wykonania zadania wykorzystaÅ‚em [plik z artykuÅ‚ami z wikipedii](http://dumps.wikimedia.org/plwiki/latest/plwiki-latest-pages-articles-multistream.xml.bz2). Plik jest w formacie xml, co oznacza, Å¼e nie da siÄ™ go zaimportowaÄ‡ do mongo - trzeba go skonwertowaÄ‡. Moje prÃ³by skonwertowania tak duÅ¼ego pliku xml do jsona zakoÅ„czyÅ‚y siÄ™ fiaskiem - wiÄ™kszoÅ›Ä‡ narzÄ™dzi, ktÃ³re prÃ³bowaÅ‚em (np. [[1]](https://github.com/parmentf/xml2json), [[2]](https://github.com/hay/xml2json), [[3]](https://github.com/yihuang/xml2json) - wszystkie nazywajÄ… siÄ™ tak samo, bo xml2json) wywalaÅ‚a bÅ‚Ä™dy w stylu OutOfMemoryException i MemoryError (z powodu wielkoÅ›ci pliku), tak wiÄ™c postanowiÅ‚em sprÃ³bowaÄ‡ z konwersjÄ… do csv. W tym celu posÅ‚uÅ¼yÅ‚em siÄ™ narzÄ™dziem [XML2CSVGenericConverter](http://sourceforge.net/projects/xml2csvgenericconverter/files/?source=navbar):
 
 ```
 time java -jar XML2CSVGenericConverter_V1.0.0.jar -v -i /nosql/wiki.xml -o /nosql/
 ```
 
-Jak na tak du¿y plik konwersja zakoñczy³a siê moim zdaniem stosunkowo szybko:
+Jak na tak duÅ¼y plik konwersja zakoÅ„czyÅ‚a siÄ™ moim zdaniem stosunkowo szybko:
 
 
 ```
@@ -46,25 +46,25 @@ user	13m18.764s
 sys	1m28.312s
 ```
 
-Nastêpnie zaimportowa³em bazê do mongo za pomoc¹ polecenia
+NastÄ™pnie zaimportowaÅ‚em bazÄ™ do mongo za pomocÄ… polecenia
 
 ```
 time mongoimport -d wiki -c wiki --type csv --file wiki.csv --headerline
 ```
 
-ale przy tym poleceniu wystêpowa³ b³¹d:
+ale przy tym poleceniu wystÄ™powaÅ‚ bÅ‚Ä…d:
 
 ```
 exception:CSV file ends while inside quoted field
 ```
 
-Znalaz³em opis tego problemu i rozwi¹zanie wygl¹da nastêpuj¹co:
+ZnalazÅ‚em opis tego problemu i rozwiÄ…zanie wyglÄ…da nastÄ™pujÄ…co:
 
 ```
 time mongoimport -d wiki -c wiki --type tsv --file wiki.csv --headerline --ignoreBlanks
 ```
 
-Import potrwa³ trochê d³u¿ej:
+Import potrwaÅ‚ trochÄ™ dÅ‚uÅ¼ej:
 
 ```
 real	51m50.747s
@@ -72,7 +72,7 @@ user	6m13.195s
 sys	1m21.482s
 ```
 
-Nastêpnie skorzysta³em z mapreduce:
+NastÄ™pnie skorzystaÅ‚em z mapreduce:
 
 ```
 var map = function() {  
