@@ -6,7 +6,7 @@ Sprzęt, na którym pracuję: Pentium B970 @ 2.3 GhZ, 6 GB RAM, Linux Mint Xfce 
 
 Plik [word_list.txt](http://wbzyl.inf.ug.edu.pl/nosql/doc/data/word_list.txt) wczytałem za pomocą następującego polecenia:
 
-``` 
+sh``` 
 mongoimport -d anagrams -c anagrams --type csv --file /media/pc/863E2B1D3E2B05B1/nosql/word_list.txt -f "words"
 ```
 
