@@ -42,7 +42,7 @@ Jak na tak duży plik konwersja zakończyła się moim zdaniem stosunkowo szybko
 
 
 ```sh
-real	23m23.156s
+real  23m23.156s
 user  13m18.764s
 sys	  1m28.312s
 ```
@@ -68,7 +68,7 @@ time mongoimport -d wiki -c wiki --type tsv --file wiki.csv --headerline --ignor
 Import potrwał trochę dłużej:
 
 ```sh
-real	51m50.747s
+real  51m50.747s
 user	6m13.195s
 sys	  1m21.482s
 ```
