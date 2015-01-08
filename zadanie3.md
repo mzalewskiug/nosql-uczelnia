@@ -43,7 +43,7 @@ Jak na tak duży plik konwersja zakończyła się moim zdaniem stosunkowo szybko
 
 ```sh
 real	23m23.156s
-user	13m18.764s
+user  13m18.764s
 sys	  1m28.312s
 ```
 
