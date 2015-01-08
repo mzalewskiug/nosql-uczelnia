@@ -8,7 +8,6 @@ Plik [word_list.txt](http://wbzyl.inf.ug.edu.pl/nosql/doc/data/word_list.txt) wc
 
 ``` 
 mongoimport -d anagrams -c anagrams --type csv --file /media/pc/863E2B1D3E2B05B1/nosql/word_list.txt -f "words"
-
 ```
 
 Następnie skorzystałem z mapreduce:
@@ -45,7 +44,7 @@ Jak na tak duży plik konwersja zakończyła się moim zdaniem stosunkowo szybko
 ```
 real	23m23.156s
 user	13m18.764s
-sys	1m28.312s
+sys	  1m28.312s
 ```
 
 Następnie zaimportowałem bazę do mongo za pomocą polecenia
